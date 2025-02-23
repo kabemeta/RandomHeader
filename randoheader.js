@@ -1,4 +1,4 @@
- // just credit me if ya want to use it (Metakabe)
+ // RandoHeader (Metakabe) https://github.com/kabemeta/RandomHeader
  document.addEventListener("DOMContentLoaded", function () {
     // either add the path of the file or url
     const images = [
