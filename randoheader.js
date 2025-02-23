@@ -8,7 +8,7 @@
         "https://files.catbox.moe/13m01z.jpg",
         "https://files.catbox.moe/nqrbmd.jpg",
     ];
-      // change the .cantiheader to the one you use^^
+      // change the .header to the one you use^^
     const header = document.querySelector(".header");
 
     function changeHeaderImage() {
